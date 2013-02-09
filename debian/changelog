@@ -1,0 +1,12 @@
+pibang-backgrounds (0.0.8) unstable; urgency=low
+
+  * Created seperate contrib package
+  * 
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Mon, 04 Feb 2013 10:20:54 +0900
+
+pibang-backgrounds (0.0.1) unstable; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Wed, 28 Nov 2012 18:04:48 +0900
