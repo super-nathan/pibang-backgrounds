@@ -1,0 +1,16 @@
+#!/bin/bash
+cd /usr/share/backgrounds
+rm debian-bulbs-by-omns.png
+rm fabric-tile-1.png
+rm fabric-tile-2.png
+rm lightbulb.jpg
+rm macro.jpg
+rm pibang-debian-derivative.png
+rm pibang.png
+rm pibanglinux.jpg
+rm raspberry-pi-logo.png
+rm raspberry-pi-logo.svg
+rm sky.jpg
+rm transparent--i.e-solid-colour.png
+rm velvet-noise.jpg
+exit 0

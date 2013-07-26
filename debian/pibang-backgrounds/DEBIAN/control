@@ -1,8 +1,9 @@
 Package: pibang-backgrounds
-Version: 0.0.8
+Version: 0.1.1
 Architecture: all
 Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
-Installed-Size: 11763
+Installed-Size: 11651
+Depends: gzip
 Section: misc
 Priority: extra
 Homepage: http://pibang.org/
