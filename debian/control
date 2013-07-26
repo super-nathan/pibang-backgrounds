@@ -6,8 +6,8 @@ Build-Depends-Indep: debhelper (>= 5.0.0)
 Standards-Version: 3.9.0
 Homepage: http://pibang.org/
 
-depends: gzip
 Package: pibang-backgrounds
+Depends: gzip
 Architecture: all
 Description: Backgrounds for PiBang Linux
 
